@@ -10,8 +10,8 @@ An HR analyst of Pewlett-Hackard company is given a task to identify employees w
 
 ![image](https://user-images.githubusercontent.com/76491891/114316971-e541be00-9ad3-11eb-8f49-862229f7b5c0.png)
 
-- There are 300,024 employees in the company, of which 90,398 (30.13%) are eligible for retirement.
-- The highest number of employees who are eligible for retiring have the titles of Senior engineer and Senior staff. There are 29,415 Senior engineers and 28,254 Senior staff eligible for retiring. There is less impact for Managers as only 2 of them are eligible for retiring.
+- There are 300,024 employees in the company, of which 90,398 (30.13%) are eligible for retirement in the next few years.
+- The highest number of employees who are eligible for retirement have the titles of Senior engineer and Senior staff. There are 29,415 Senior engineers and 28,254 Senior staff eligible for retirement. There is less impact for Managers as only 2 of them are eligible for retirement.
 
 ### Employees Eligible to Participate in a Mentorship Program
 
