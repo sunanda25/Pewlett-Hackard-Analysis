@@ -18,6 +18,9 @@ An HR analyst of Pewlett-Hackard company is given a task to identify employees w
 ![image](https://user-images.githubusercontent.com/76491891/114317013-128e6c00-9ad4-11eb-9387-d976cafe8efe.png)
 
 - There are 1549 employees eligible to participate in the mentorship program.
+
+![image](https://user-images.githubusercontent.com/76491891/114317592-cd1f6e00-9ad6-11eb-9ae1-e34ec521eb84.png)
+
 - The highest number of employees who are eligible for mentorship program have the titles of Senior staff and Engineer. There are 569 Senior staff and 501 Engineers eligible for mentorship program.
 
 ## Summary
@@ -29,7 +32,7 @@ An HR analyst of Pewlett-Hackard company is given a task to identify employees w
 
 ![image](https://user-images.githubusercontent.com/76491891/114317141-b1b36380-9ad4-11eb-80ac-d8c6034ed622.png)
 
-- The development department has the highest number of roles (23,008) to be filled and the Finance department has the lowest number of roles (4712) to be filled.
+- The Development department has the highest number of roles (23,008) to be filled and the Finance department has the lowest number of roles (4,712) to be filled.
 
 ###  Mentoring the Next Generation of Pewlett Hackard Employees
 
